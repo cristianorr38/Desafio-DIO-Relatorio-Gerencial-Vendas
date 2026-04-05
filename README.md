@@ -8,8 +8,6 @@ Para isso:
 - 🗂️ Crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas.
 - 🔗 Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
 
-💡 **Dica:** Se o expert forneceu um repositório GitHub, você pode dar um *fork* no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
-
 ---
 
 ## 📌 Instruções de Entrega do Desafio
@@ -29,7 +27,7 @@ Os arquivos de dados estão disponíveis no GitHub:
 
 ---
 
-## 🛠️ Passo a Passo
+## 🛠️ Passo a Passo:
 Utilize os vídeos de apoio para criar os elementos da primeira página do relatório:
 
 - 🖼️ Objetos que definem o layout do relatório  
@@ -39,7 +37,7 @@ Utilize os vídeos de apoio para criar os elementos da primeira página do relat
 
 ---
 
-## ✅ Lembre-se de:
+## ✅ Lembrete:
 - ➕ Criar a segunda página do relatório  
 - ☁️ Publicar o seu relatório no Power BI Service  
 - 🎨 Caso tenha familiaridade, fique livre para utilizar outros artifícios nos botões e demais elementos  
@@ -48,7 +46,6 @@ Utilize os vídeos de apoio para criar os elementos da primeira página do relat
 ---
 
 ## ⚙️ Requisitos
-
 Para executar e visualizar este projeto corretamente, você precisará de:
 
 - 🖥️ **Power BI Desktop** (versão recomendada: 2.120 ou superior)  
@@ -62,7 +59,6 @@ Para executar e visualizar este projeto corretamente, você precisará de:
 ---
 
 ## 📸 Relatório
-
 Para melhor visualização, seguem os prints das páginas desenvolvidas no Power BI:
 
 ## 📄 Página 1 – Relatório de Vendas
@@ -92,7 +88,6 @@ Para melhor visualização, seguem os prints das páginas desenvolvidas no Power
 ```
 
 # 🗺️ Roadmap do Projeto
-
 Este roadmap apresenta as etapas concluídas e as melhorias planejadas para evolução do relatório gerencial de vendas.
 
 ## ✅ Concluído
