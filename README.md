@@ -1,4 +1,11 @@
-# 📊 Criando um Relatório Gerencial de Vendas com Power BI
+# 📊 Criando Um Relatório Gerencial de Vendas com Power BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-2.120%2B-yellow?logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Finalizado-blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Desafio-DIO-Relatorio-Gerencial-Vendas)
+[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Desafio-DIO-Relatorio-Gerencial-Vendas?style=social)](https://github.com/cristianorr38/Desafio-DIO-Relatorio-Gerencial-Vendas/stargazers)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 🚀 Entendendo o Desafio
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO!  
